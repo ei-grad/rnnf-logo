@@ -15,9 +15,9 @@
    width="64"
    height="64"
    sodipodi:docname="nonames.svg"
-   inkscape:export-filename="/home/ei-grad/rnnf-logo/nonames.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/ei-grad/rnnf-logo/nonames32.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <metadata
      id="metadata3012">
     <rdf:RDF>
@@ -53,9 +53,9 @@
      inkscape:snap-to-guides="false"
      inkscape:snap-nodes="true"
      inkscape:snap-center="false"
-     inkscape:zoom="1"
-     inkscape:cx="-80.502297"
-     inkscape:cy="-32.229468"
+     inkscape:zoom="8"
+     inkscape:cx="24.108595"
+     inkscape:cy="15.946172"
      inkscape:window-x="0"
      inkscape:window-y="14"
      inkscape:window-maximized="0"
@@ -244,20 +244,20 @@
      id="rect3875"
      width="2"
      height="2"
-     x="47"
+     x="46"
      y="30" />
   <path
      style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 43,44 0,-11 3,0 0,-4 4,0 0,0 0,3 0,-3 -1,0 0,-2 2,0 0,2 3,0 0,4 3,0 0,11 0,-11 -4,0 0,11 0,-11 -6,0 0,11 0,-11 -4,0 0,11"
+     d="m 43,44 0,-11 2,0 0,-4 5.29297,0 2.70703,0 -2,0 0,3 -2,0 0,-3 -2,0 0,-2 6,0 0,2 2,0 0,4 2,0 0,11 0,-11 -4,0 0,11 0,-11 -6,0 0,11 0,-11 -4,0 0,11"
      id="path3879"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:none"
      id="rect3877"
      width="2"
      height="2"
-     x="51"
+     x="52"
      y="30" />
   <rect
      style="fill:#ff0000"
